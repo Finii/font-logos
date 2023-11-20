@@ -225,6 +225,126 @@
     },
     "xerolinux": {
       "width": 505
+    },
+    "arduino": {
+      "width": 512
+    },
+    "kicad": {
+      "width": 482
+    },
+    "octoprint": {
+      "width": 509
+    },
+    "openscad": {
+      "width": 449
+    },
+    "osh": {
+      "width": 512
+    },
+    "oshwa": {
+      "width": 424
+    },
+    "prusaslicer": {
+      "width": 383
+    },
+    "reprap": {
+      "width": 425
+    },
+    "riscv": {
+      "width": 511
+    },
+    "awesome": {
+      "width": 512
+    },
+    "bspwm": {
+      "width": 512
+    },
+    "dwm": {
+      "width": 512
+    },
+    "enlightenment": {
+      "width": 379
+    },
+    "fluxbox": {
+      "width": 513
+    },
+    "hyprland": {
+      "width": 386
+    },
+    "i3": {
+      "width": 512
+    },
+    "jwm": {
+      "width": 512
+    },
+    "qtile": {
+      "width": 509
+    },
+    "sway": {
+      "width": 512
+    },
+    "xmonad": {
+      "width": 512
+    },
+    "cinnamon": {
+      "width": 512
+    },
+    "freedesktop": {
+      "width": 514
+    },
+    "gnome": {
+      "width": 410
+    },
+    "gtk": {
+      "width": 474
+    },
+    "lxde": {
+      "width": 512
+    },
+    "lxqt": {
+      "width": 511
+    },
+    "mate": {
+      "width": 507
+    },
+    "vanilla": {
+      "width": 512
+    },
+    "wayland": {
+      "width": 512
+    },
+    "xfce": {
+      "width": 491
+    },
+    "xorg": {
+      "width": 512
+    },
+    "fdroid": {
+      "width": 512
+    },
+    "fosdem": {
+      "width": 509
+    },
+    "osi": {
+      "width": 512
+    },
+    "wikimedia": {
+      "width": 504
+    },
+    "mpv": {
+      "width": 512
+    },
+    "neovim": {
+      "width": 421
+    },
+    "thunderbird": {
+      "width": 512
+    },
+    "tor": {
+      "width": 512
+    },
+    "vscodium": {
+      "width": 511
     }
   }
 }
