@@ -4,7 +4,7 @@
   font-family: "font-logos";
   font-style: normal;
   font-weight: normal;
-  src:url("font-logos.woff?v=1.0.2") format("woff"),url("font-logos.woff2?v=1.0.2") format("woff2"),url("font-logos.ttf?v=1.0.2") format("truetype")}
+  src:url("font-logos.woff?v=1.1.0") format("woff"),url("font-logos.woff2?v=1.1.0") format("woff2"),url("font-logos.ttf?v=1.1.0") format("truetype")}
 
 .fl-alpine::before, 
 .fl-aosc::before, 
@@ -329,8 +329,8 @@
   content: "\f33d";
 }
 .fl-fw.fl-krita::before {
-  font-size: 0.7540500736377025em;
-  line-height: 1.326171875em;
+  font-size: 0.9961089494163424em;
+  line-height: 1.00390625em;
 }
 .fl-lxle::before {
   content: "\f33e";
